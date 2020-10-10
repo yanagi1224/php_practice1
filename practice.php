@@ -14,7 +14,7 @@ $hello = "Hello,";
 $name = "柳澤";
 $world = "s World!";
 
-echo $hello . "柳澤" . "s World!";
+echo $hello . $name . $world;
 echo "\n";
 
 $hello = "Hello,";
